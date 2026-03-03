@@ -1,0 +1,9 @@
+[project]
+name = "learning-activities"
+version = "0.1.0"
+description = "Learning activity scripts and utilities."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy"
+]
